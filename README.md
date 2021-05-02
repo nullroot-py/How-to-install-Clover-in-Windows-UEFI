@@ -41,4 +41,7 @@ Step 4:
 Open Notepad or an app that has Open or Open with option ***in Administrator***.
 <br/>
 Do the open or open with command and go to SYSTEM partition and open it. In the partition there is a Folder called EFI and open it. Create a folder called 'Clover' or you may call it whatever you want, but I just 'Clover' for simplicity's sake. Copy those EFI, Library and usr folders from Step 2 and paste them in the Clover folder. If you can't do that and you aren't using Notepad like I did, use Notepad for doing it because it works. After you copied the files into Clover, X out of the Open and exit out of Notepad or the program you are using. We're still not done yet.
+<br/>
+<br/>
+<br/>
 Step 5: Install Hasleo EasUEFI, I used Trial version. Click 'Manage EFI System partition'
