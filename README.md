@@ -7,7 +7,7 @@ Step 1:
 <br/>
 Download Clover Bootloader ISO file from here: https://sourceforge.net/projects/cloverefiboot/files/Bootable_ISO/
 <br/> 
-The file will be in a compressed formar called lzma, with a .lzma extension. 
+The file will be in a compressed format called lzma, with a .lzma extension. 
 <br/>
 Note: The ISO files are from 2019, use Clover Configurator to update Clover accordingly. 
 <br/>
@@ -37,3 +37,5 @@ Go to file explorer and make sure that there is a new partition called SYSTEM wi
 <br/>
 <br/>
 <br/>
+Step 4:
+Open Notepad or an app that has Open or Open with option ***in Administrator***
