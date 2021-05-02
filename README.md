@@ -3,8 +3,6 @@ How To Install Clover tutorial in Windows:
 <br/>
 Step 1: 
 <br/>
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-<br/>
 Download Clover Bootloader ISO file from here: https://sourceforge.net/projects/cloverefiboot/files/Bootable_ISO/
 <br/> 
 The file will be in a compressed formar called lzma, with a .lzma extension. 
