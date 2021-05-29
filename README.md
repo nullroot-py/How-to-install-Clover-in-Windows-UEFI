@@ -44,6 +44,6 @@ Do the open or open with option in File and go to SYSTEM partition and open it. 
 <br/>
 <br/>
 <br/>
-Step 5: Install Hasleo EasUEFI, I used Trial version. Click 'Manage EFI Boot Option'
+Step 5: Install Hasleo EasyUEFI, I used Trial version. Click 'Manage EFI Boot Option'
 <br/>
-Left of Detailed information, there are a bunch of buttons. Click the second, which looks like a table/calendar and a green plus on it. It will create a boot entry. Make it type 'Linux or Other OS' and name it Clover. Click the grey circle to choose where our efi file is. I have a Windows laptop with an external HDD that contains my Linux, so i have 2 EFI partitions, each on a drive. Click the one that has the Clover boot loader files, which is probably the first one. Click Bowse on the bottom part of the Window and click the plus to open folders. Go to EFI, Clover, EFI, Boot and select Bootx64.efi. Then click Ok. It will be at last of the list, so click the up arrow to move it up at the top. Done!
+Left of the Detailed information section, there are a bunch of buttons. Click the second, which looks like a table/calendar and a green plus on it. It will create a boot entry. Make it type 'Linux or Other OS' and name it Clover. Click the grey circle to choose where our efi file is. I have a Windows laptop with an external HDD that contains my Linux, so i have 2 EFI partitions, each on a drive. Click the one that has the Clover boot loader files, which is probably the first one. Click Bowse on the bottom part of the Window and click the plus to open folders. Go to EFI, Clover, EFI, Boot and select Bootx64.efi. Then click Ok. It will be at last of the list, so click the up arrow to move it up at the top. Done!
